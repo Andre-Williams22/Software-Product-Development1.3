@@ -1,0 +1,5 @@
+/Users/andre22/Documents/Dev/spd13/bitcoin-historical-data/bitstampUSD_1-min_data_2012-01-01_to_2019-08-12.csv[[:space:]][[:space:]] filter=lfs diff=lfs merge=lfs -text
+/Users/andre22/Documents/Dev/spd13/bitcoin-historical-data/coinbaseUSD_1-min_data_2014-12-01_to_2019-01-09.csv[[:space:]] filter=lfs diff=lfs merge=lfs -text
+/Users/andre22/Documents/Dev/spd13/bitcoin-historical-data[[:space:]] filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
